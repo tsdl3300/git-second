@@ -7,7 +7,7 @@ public class FirstClass {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
-        //test second
+        //test second 顶顶顶顶
     }
     public void test(){
         int i=0;
